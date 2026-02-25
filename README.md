@@ -183,3 +183,11 @@ pytest tests/test_game_controller.py::TestGameControllerDiskGeneration -v
 6. Move all disks to the destination peg
 7. Answer the challenge question to save your score!
 
+📈 Educational Value
+
+This project isn’t just a puzzle — it’s a teaching tool:
+🧮 Demonstrates recursion and algorithmic thinking
+🔁 Allows comparison of recursive vs iterative approaches
+📊 Visualizes step counts and moves
+🧠 Helps reinforce divide-and-conquer patterns
+
