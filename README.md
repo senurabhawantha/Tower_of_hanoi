@@ -1,10 +1,37 @@
-# Tower of Hanoi - Comprehensive Game System
+<!-- ============================= -->
+<!--     🧩 Tower of Hanoi App      -->
+<!-- ============================= -->
 
-A full-stack implementation of the classic Tower of Hanoi puzzle game with multiple solving algorithms, a modern React gaming UI, and MySQL database integration.
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-iOS-black?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Swift-F05138?logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-Xcode-1575F9?logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Complete-success" />
+</p>
 
-## 📋 Requirements Implementation
+<h1 align="center">🗼 Tower of Hanoi (iOS)</h1>
 
-This project implements all requirements from the PDSA coursework specification:
+<p align="center">
+  A classic algorithmic puzzle implemented as an interactive iOS app in Swift.  
+  Drag and move disks between pegs to solve the puzzle with the fewest moves possible.
+</p>
+
+---
+
+## 🧠 What Is Tower of Hanoi?
+
+**Tower of Hanoi** is a well-known mathematical and recursive puzzle:
+
+- You start with a stack of disks of different sizes on one peg.
+- The goal is to move all disks to another peg.
+- Rules:
+  1. Only one disk can be moved at a time.
+  2. A disk can only be placed on top of a larger disk.
+  3. Only the top disk of any peg can be moved.
+
+This project translates the puzzle into an iOS experience, complete with UI and logic powered by Swift.
+
+---
 
 
 ## 🎮 Features
