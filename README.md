@@ -1,21 +1,20 @@
-<!-- ============================= -->
-<!--     🧩 Tower of Hanoi App      -->
-<!-- ============================= -->
+<!-- =============================== -->
+<!--     🗼 Tower of Hanoi Web App     -->
+<!-- =============================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-iOS-black?logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-Swift-F05138?logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-Xcode-1575F9?logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Complete-success" />
+  <img src="https://img.shields.io/badge/Platform-Web-blue?logo=web&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Python-brightgreen?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-JavaScript-yellow?logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
 </p>
 
-<h1 align="center">🗼 Tower of Hanoi (iOS)</h1>
+<h1 align="center">🧠 Tower of Hanoi Web Application</h1>
 
 <p align="center">
-  A classic algorithmic puzzle implemented as an interactive iOS app in Swift.  
-  Drag and move disks between pegs to solve the puzzle with the fewest moves possible.
+  A full-stack implementation of the classic Tower of Hanoi puzzle, where users can interactively play, explore multiple algorithms, and visualize the optimal solution to this canonical recursive challenge.  
+  Built with Python for backend logic and JavaScript for frontend UI.
 </p>
-
 ---
 
 ## 🧠 What Is Tower of Hanoi?
