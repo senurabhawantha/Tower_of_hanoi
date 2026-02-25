@@ -15,7 +15,6 @@
   A full-stack implementation of the classic Tower of Hanoi puzzle, where users can interactively play, explore multiple algorithms, and visualize the optimal solution to this canonical recursive challenge.  
   Built with Python for backend logic and JavaScript for frontend UI.
 </p>
----
 
 ## 🧠 What Is Tower of Hanoi?
 
