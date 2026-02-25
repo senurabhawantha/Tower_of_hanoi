@@ -186,6 +186,7 @@ pytest tests/test_game_controller.py::TestGameControllerDiskGeneration -v
 📈 Educational Value
 
 This project isn’t just a puzzle — it’s a teaching tool:
+
 🧮 Demonstrates recursion and algorithmic thinking
 
 🔁 Allows comparison of recursive vs iterative approaches
